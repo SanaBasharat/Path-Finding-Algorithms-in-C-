@@ -1,4 +1,4 @@
-# Path-Finding-Algorithms-in-C-
+# Path-Finding-Algorithms-in-Cplusplus
 Path finding from start to goal state using blind search algorithms.
 
 Designed a robot navigation system which is able to conduct blind searches to find its path from start to goal state. As input, the system will take a description of the maze stored as a text file. The maze is a 2D grid with obstacles inside it. The obstacles are filled rectangles of unknown dimensions and can be found anywhere in the maze. The robot cannot be in those cells. There are 3 actions allowed.  Up one cell (cost is 2), right one cell (cost is 2), diagonally up towards the right(cost is 3). The system outputs:
